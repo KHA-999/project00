@@ -1,0 +1,40 @@
+.:
+total 0
+drwxr-xr-x  5 kalaghba _amman  51 Sep 30 14:03 .
+drwx------ 17 kalaghba _amman 326 Sep 30 14:06 ..
+drwxr-xr-x  2 kalaghba _amman   6 Sep 30 14:03 archives
+drwxr-xr-x  3 kalaghba _amman  17 Sep 30 14:04 projects
+drwxr-xr-x  2 kalaghba _amman   6 Sep 30 14:03 tools
+
+./archives:
+total 0
+drwxr-xr-x 2 kalaghba _amman  6 Sep 30 14:03 .
+drwxr-xr-x 5 kalaghba _amman 51 Sep 30 14:03 ..
+
+./projects:
+total 0
+drwxr-xr-x 3 kalaghba _amman 17 Sep 30 14:04 .
+drwxr-xr-x 5 kalaghba _amman 51 Sep 30 14:03 ..
+drwxr-xr-x 4 kalaghba _amman 37 Sep 30 14:04 web
+
+./projects/web:
+total 0
+drwxr-xr-x 4 kalaghba _amman 37 Sep 30 14:04 .
+drwxr-xr-x 3 kalaghba _amman 17 Sep 30 14:04 ..
+drwxr-xr-x 2 kalaghba _amman  6 Sep 30 14:04 backend
+drwxr-xr-x 2 kalaghba _amman  6 Sep 30 14:04 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x 2 kalaghba _amman  6 Sep 30 14:04 .
+drwxr-xr-x 4 kalaghba _amman 37 Sep 30 14:04 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x 2 kalaghba _amman  6 Sep 30 14:04 .
+drwxr-xr-x 4 kalaghba _amman 37 Sep 30 14:04 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 kalaghba _amman  6 Sep 30 14:03 .
+drwxr-xr-x 5 kalaghba _amman 51 Sep 30 14:03 ..
